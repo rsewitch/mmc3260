@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+
+h1  { 
+	color: #;
+}
+
+h2 {
+	color:#0021a5;
+p { 
+
+font-family: arial, helvetica, sans-serif;
+font-size: 16px;
+line-height: 22px;
+}
+
+img { 
+	border:5px solid #cccccc;
+	margin:0 5% 0 5%;
+	padding:1%; /*TrouBLe */
+	width:90%;
+
+	}
+
